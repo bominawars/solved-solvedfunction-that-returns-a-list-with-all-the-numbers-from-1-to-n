@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedfunction-that-returns-a-list-with-all-the-numbers-from-1-to-n
+<br>
+Write a function that returns a list with all the numbers from 1 to n (inclusive) that are a multiple of mm . The function should have as parameters the numbers n and m , and return a list with the qualifying numbers.print all the numbers from 1 to n (inclusive) that they are multiples of m. The values of n and m should be stored in Python variables
